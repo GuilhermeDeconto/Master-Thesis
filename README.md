@@ -7,7 +7,7 @@
 ## Libraries
 - pandas=2.2.2
 - matplotlib=3.9.0rc2
-- numpy=2.0.0rc1
+- numpy=1.26.4
 - seaborn=0.13.2
 - imblearn=0.0
 - scikit-learn=1.4.2
